@@ -6,4 +6,8 @@ git clone git@github.com:michaelliao/gitskills.git
 git add files
 git commit -m "comments"
 git push origin master
+##3.Add all untracked files
+git add -A .
+
+
 
