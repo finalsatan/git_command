@@ -2,7 +2,7 @@
 Git Command to Use usually
 ##1.initial work on ubuntu
 ####a. install git:  
-  sudo apt-get install git-core  
+  sudo apt-get install git  
 ####b. set env:  
   git config --global user.name "username"  
   git config --global user.email "useremail"  
